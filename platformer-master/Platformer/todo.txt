@@ -1,0 +1,3 @@
+transition script 
+death script
+partoicle script

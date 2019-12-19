@@ -1,0 +1,1 @@
+if (room==rm1){audio_play_sound(snd_song1,100,true)}
